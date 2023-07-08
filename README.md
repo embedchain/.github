@@ -9,3 +9,6 @@ Embedchain is a framework to easily create LLM powered bots over any dataset.
 * [qna-bot-template-py](https://github.com/embedchain/qna-bot-template-py)
 * [qna-bot-template-js](https://github.com/embedchain/qna-bot-template-js)
 * [chat-bot-template-py](https://github.com/embedchain/chat-bot-template-py)
+
+## Community Showcase
+* [community-showcase](https://github.com/embedchain/community-showcase)
